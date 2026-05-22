@@ -25,6 +25,10 @@ Read them in this order:
 7. [07-troubleshooting.md](07-troubleshooting.md)
 8. [08-security-notes.md](08-security-notes.md)
 
+Optional advanced guides:
+
+- [09-bonus-busybee-cpu.md](09-bonus-busybee-cpu.md)
+
 There is also a longer publishing version:
 
 - [article-version.md](article-version.md)
