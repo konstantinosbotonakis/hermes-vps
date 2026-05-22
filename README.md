@@ -29,6 +29,7 @@ Optional advanced guides:
 
 - [09-bonus-busybee-cpu.md](09-bonus-busybee-cpu.md)
 - [10-bonus-rag-memory.md](10-bonus-rag-memory.md)
+- [11-bonus-local-inference-remote-gateway.md](11-bonus-local-inference-remote-gateway.md)
 
 There is also a longer publishing version:
 
